@@ -32,7 +32,7 @@
 
 При исполнении .NET плагина также будет "вольная ошибка" (показывающая проблемы поиска зависимостей для CLI-библиотеки)
 
-> Ошибка во время выполнения команды: 'Could not load file or assembly 'osgeo_net_wrapper, Version=1.0.8507.28879, Culture=neutral, PublicKeyToken=null'. Не удается найти указанный файл.'.
+> Ошибка во время выполнения команды: "Could not load file or assembly "osgeo_net_wrapper, Version=1.0.8507.28879, Culture=neutral, PublicKeyToken=null". Не удается найти указанный файл.".
 
 ## Детальная информация о версиях:
 
@@ -40,11 +40,11 @@
 
 Эти сборки норм
 
--Windows 10 Pro 21H2 19044.1889;
--Windows 10 Pro 21H2 19044.1645;
--Windows 10 Pro 22H2 19045.2130;
+- Windows 10 Pro 21H2 19044.1889;
+- Windows 10 Pro 21H2 19044.1645;
+- Windows 10 Pro 22H2 19045.2130;
 
 Эти сборки нет
 
--Windows 10 Pro 22H2 19045.2604;
--Windows 10 Pro 22H2 19045.2251 (and with updates to 19045.2604)
+- Windows 10 Pro 22H2 19045.2604;
+- Windows 10 Pro 22H2 19045.2251 (and with updates to 19045.2604)
