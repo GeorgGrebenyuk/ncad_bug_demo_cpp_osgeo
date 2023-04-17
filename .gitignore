@@ -4,9 +4,7 @@ Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
-#Folders my
-binary/
-examples/
+
 #Build dir
 plugin_bin
 
