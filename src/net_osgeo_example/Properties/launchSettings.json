@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "net_osgeo_example": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
